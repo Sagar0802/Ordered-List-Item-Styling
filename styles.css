@@ -1,0 +1,4 @@
+/* setting background color of 3rd child of list items to blue  */
+.third>ul>li:nth-child(3){
+    background-color: blue;
+}
